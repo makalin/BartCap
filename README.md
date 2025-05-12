@@ -2,6 +2,8 @@
 
 **BartCap** lets you create your own chalkboard memes! Inspired by the iconic chalkboard punishment scenes but featuring an original character.
 
+Live project: https://makalin.github.io/BartCap/
+
 ## Features
 - Type your own text
 - Preview it in real-time on a chalkboard
