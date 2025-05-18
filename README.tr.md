@@ -2,7 +2,7 @@
 
 **Bir Bart Simpson tarzı altyazı oluşturucu (meme üretici).**
 
-![BartCap Logo](https://raw.githubusercontent.com/makalin/BartCap/main/assets/bartcap.png)
+Proje: https://makalin.github.io/BartCap/
 
 ## Özellikler
 
